@@ -663,6 +663,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Manning Publications YouTube channel](https://www.youtube.com/c/ManningPublications/featured)
 - [Ask Dr Chong: How to Lead in Data Science - Part 1](https://youtu.be/JYuQZii5o58)
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
+- [Two minutes paper](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 
 
 
@@ -789,6 +790,8 @@ Some data mining competition platforms
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 - [Awesome Drug Synergy, Interaction and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+- [Numer.ai](https://numer.ai/)
+- [Weights and Biases](https://wandb.ai/fully-connected)
 
 ## Data Science Communities
 - [IBM Data Science Community](https://community.ibm.com/community/user/datascience/home)
